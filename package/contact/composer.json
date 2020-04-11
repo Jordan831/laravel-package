@@ -1,5 +1,5 @@
 {
-    "name": "vikram/contact",
+    "name": "Vikram/Contact",
     "description": "This will send email to customer",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "vikram\\contact\\": "src/"
+            "Vikram\\Contact\\": "src/"
         }
     }
 }
