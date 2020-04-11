@@ -1,0 +1,14 @@
+{
+    "name": "vikram/contact",
+    "description": "This will send email to customer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordan831",
+            "email": "vicky.electron831@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
