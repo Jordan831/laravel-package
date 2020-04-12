@@ -12,7 +12,10 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-4": {
+      "classmap": [
+           "src/migrations"
+       ],
+        "psr-0": {
             "Vikram\\Contact\\": "src/"
         }
     }
